@@ -1,0 +1,5 @@
+COMMAND ONE:
+
+# Este comando es para iniciar las pruebas realizadas un poco más especificas
+python -m unittest discover -v -s tests
+
