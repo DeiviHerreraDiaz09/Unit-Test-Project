@@ -15,7 +15,6 @@ def test_calculate_total_with_single_product():
 
 
 def test_calculate_total_with_single_products():
-    print("Entró a la función")
     products = [
         {"name": "Notebook", "price": 5},
         {"name": "Book", "price": 3},
